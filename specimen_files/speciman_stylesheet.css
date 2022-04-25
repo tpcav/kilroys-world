@@ -93,13 +93,13 @@ h2{
 }
 
 .tabs li a {
-	align-items: right;
+	align-items: center;
 	display: block;
 	color: rgb(0, 159, 159);
 	text-decoration: none;
 	font: bold 50x;
 	text-transform: uppercase;
-	padding: 5px 109.5px;
+	padding: 15px 105px;
 }
 
 .tabs li a:hover {
