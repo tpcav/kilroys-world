@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "name": "kilroysworld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://tpcav.github.io/kilroysworld",
+  "description": ""
+}
