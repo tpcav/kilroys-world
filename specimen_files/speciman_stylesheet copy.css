@@ -32,13 +32,19 @@ body {
 	background-color: rgb(35, 35, 35);
 }
 
+p {
+	font-size: 50px;
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
 a {
 	text-decoration: none;
 	color: #1883ba;
 }
 
 h1{
-	font-size: 32px;
+	font-size: 75px;
 	font-weight: normal;
 	font-style: normal;
 	margin-bottom: 18px;
@@ -58,7 +64,7 @@ h2{
 	padding: 20px;
 	font-family: Snell Roundhand, cursive;
 	font-weight: bold;
-	font-size: 150pt;
+	font-size: 50pt;
 	background-color: rgb(114, 0, 0);
 	color: #fff;
 }
@@ -73,7 +79,7 @@ h2{
 
 
 #footer p {
-	margin-top: 15px;
+	margin-top: 1px;
 	margin-bottom: 0px;
 	color: rgb(255, 255, 255);
 	font: 10px Arial, sans-serif;
