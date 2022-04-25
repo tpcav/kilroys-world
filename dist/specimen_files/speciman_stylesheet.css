@@ -29,7 +29,7 @@ table             {border-collapse: collapse;border-spacing: 0;}
 
 body {
 	color: white;
-	background-color: rgb(34, 34, 34);
+	background-color: rgb(35, 35, 35);
 }
 
 a {
@@ -56,9 +56,9 @@ h2{
 
 #header {
 	padding: 20px;
-	font-family: cursive;
+	font-family: Snell Roundhand, cursive;
 	font-weight: bold;
-	font-size: 120pt;
+	font-size: 150pt;
 	background-color: rgb(114, 0, 0);
 	color: #fff;
 }
@@ -73,7 +73,7 @@ h2{
 
 
 #footer p {
-	margin-top: 1px;
+	margin-top: 15px;
 	margin-bottom: 0px;
 	color: rgb(255, 255, 255);
 	font: 10px Arial, sans-serif;
@@ -93,13 +93,13 @@ h2{
 }
 
 .tabs li a {
-	align-items: right;
+	align-items: center;
 	display: block;
 	color: rgb(0, 159, 159);
 	text-decoration: none;
 	font: bold 50x;
 	text-transform: uppercase;
-	padding: 5px 109.5px;
+	padding: 15px 105px;
 }
 
 .tabs li a:hover {
@@ -268,7 +268,7 @@ code {
 	position: relative;
 }
 .georgiabody{
-	font-family: Georgia;
+	font-family: Garamond (serif);
 	position: relative;
 }
 
